@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BatchMaster>
+	<SystemMessageHeader>
+		<CreationDateTime>2019-09-04T18:27:39.000000+00:00</CreationDateTime>
+		<SenderID>UT IDS BATCH</SenderID>
+		<BusinessSystemID>trdsap</BusinessSystemID>
+		<MessageID>UT IDS BATCH - 1010003952-WS - 31000215_1567614460438 - ZPP</MessageID>
+	</SystemMessageHeader>
+	<Batch>
+		<BatchNumber>1010003952-WS</BatchNumber>
+		<Material>
+			<MaterialNumber>31000215_1567614460438</MaterialNumber>
+			<MaterialType>ZPP</MaterialType>
+			<Name>LCZ696 200MG FILM-COATED TABLET</Name>
+			<SynonymName>LCZ696 200MG FILM-COATED TABLET</SynonymName>
+			<Container>
+				<ContainerType>Blisters</ContainerType>
+				<ContentOfContainer>25</ContentOfContainer>
+			</Container>
+		</Material>
+		<StatusIndicator>01</StatusIndicator>
+		<ExpiryDate>2016-01-31+00:00</ExpiryDate>
+		<ReleaseDate>2019-09-04+00:00</ReleaseDate>
+		<BatchUsageDecision>60</BatchUsageDecision>
+	</Batch>
+</BatchMaster>

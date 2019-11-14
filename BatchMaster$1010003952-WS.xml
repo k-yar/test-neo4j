@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:BatchMaster xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="http://www.novartis.com/DI/D2P/Broker/Schemas/BatchMaster" xmlns:ns1="http://www.novartis.com/DI/D2P/Broker/Schemas/CommonTypes" ns1:schemaVersion="1">
+	<ns1:SystemMessageHeader xmlns:ns1="http://www.novartis.com/DI/D2P/Broker/Schemas/CommonTypes">
+		<ns1:CreationDateTime>2019-09-04T18:27:39.000000+00:00</ns1:CreationDateTime>
+		<ns1:SenderID>UT IDS BATCH</ns1:SenderID>
+		<ns1:BusinessSystemID>trdsap</ns1:BusinessSystemID>
+		<ns1:MessageID>UT IDS BATCH - 1010003952-WS - 31000215_1567614460438 - ZPP</ns1:MessageID>
+	</ns1:SystemMessageHeader>
+	<ns0:Batch>
+		<ns0:BatchNumber>1010003952-WS</ns0:BatchNumber>
+		<ns0:Material>
+			<ns0:MaterialNumber>31000215_1567614460438</ns0:MaterialNumber>
+			<ns0:MaterialType>ZPP</ns0:MaterialType>
+			<ns0:Name>LCZ696 200MG FILM-COATED TABLET</ns0:Name>
+			<ns0:SynonymName>LCZ696 200MG FILM-COATED TABLET</ns0:SynonymName>
+			<ns0:Container>
+				<ns0:ContainerType>Blisters</ns0:ContainerType>
+				<ns0:ContentOfContainer>25</ns0:ContentOfContainer>
+			</ns0:Container>
+		</ns0:Material>
+		<ns0:StatusIndicator>01</ns0:StatusIndicator>
+		<ns0:ExpiryDate>2016-01-31+00:00</ns0:ExpiryDate>
+		<ns0:ReleaseDate>2019-09-04+00:00</ns0:ReleaseDate>
+		<ns0:BatchUsageDecision>60</ns0:BatchUsageDecision>
+	</ns0:Batch>
+</ns0:BatchMaster>
